@@ -1,0 +1,10 @@
+# 数列极限
+
+## 定义
+
+设有数列 $$\{a_n\}$$，对 $$\forall \varepsilon >0$$ 均存在 $$N$$，使得当 $$n>N$$ 时有 $$|a_n-C|<\varepsilon$$，这里的 $$C$$ 是一个有限常数。那么称数列 $$\{a_n\}$$ 收敛，也称之为数列 $$\{a_n\}$$ 收敛于 $$C$$，或极限为 $$C$$，记作 $$\lim\limits_{n\to\infty}{a_n}=C$$。
+
+### 性质
+
+由数列定义可以直接导出：$$a_n < \max\{a_1, a_2, \cdots a_N, C+\varepsilon \}$$对任意 $$n \in \mathbb{N}^*$$ 成立
+

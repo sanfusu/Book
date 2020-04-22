@@ -4,6 +4,6 @@
 
 ## 映射 <a id="map"></a>
 
-* [基本概念](general-principal.md)
-* [数列极限](数列极限.md)
+* [基本概念](map/general-principal.md)
+* [数列极限](map/shu-lie-ji-xian.md)
 
