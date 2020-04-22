@@ -5,4 +5,5 @@
 ## 映射 <a id="map"></a>
 
 * [基本概念](general-principal.md)
+* [数列极限](数列极限.md)
 
